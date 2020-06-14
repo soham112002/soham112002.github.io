@@ -21,7 +21,7 @@ nav ul{
 nav ul li{
 	list-style-type: none;
 	display: inline-block;
-	transition: 0.8s all;
+	transition: 0.8s all; 
 
 }	
 nav ul li a{
