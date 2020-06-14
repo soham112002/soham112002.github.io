@@ -58,14 +58,14 @@ div p{
 	font-family: sans-serif;
 	font-weight: lighter;
 	font-size: 20px;
-	margin-top:0;
+	margin-top:60px;
 
 }
 .media{
 	position: absolute;
-	top: 40%;
-	left: 50%;
-	transform: translate(-53%, -50%);
+	top: 60%;
+	left: 70%;
+	transform: translate(-63%, -60%);
 }
 div ul li{
 	list-style: none;
