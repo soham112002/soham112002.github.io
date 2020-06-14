@@ -22,7 +22,7 @@ h1 {
 	color: #fff;
 	text-align:center;
 	padding-top: 50px;
-	margin-bottom: 50px; 
+	margin-bottom: 0; 
 }
 div p{
 	color: #fff;
@@ -35,8 +35,8 @@ div p{
 }
 .media{
 	position: absolute;
-	top: 40%;
-	left: 50%;
+	top: 60%;
+	left: 70%;
 	transform: translate(-53%, -50%);
 }
 div ul li{
