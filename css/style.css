@@ -63,5 +63,14 @@ nav{
 	background-color: #0008;
 	line-height: 80px;
 }
+nav ul{
+	float: right;
+	margin-right: 30px;
+}
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	transition: 0.8s all;
 
+}
 
