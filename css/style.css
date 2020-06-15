@@ -36,8 +36,8 @@ div p{
 }
 .media{
 	position: absolute;
-	top: 100%;
-	left: 30%;
+	top: 70%;
+	left: 40%;
 	transform: translate(-53%, -50%);
 }
 div ul li{
