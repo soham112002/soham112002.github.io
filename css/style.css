@@ -36,9 +36,9 @@ div p{
 }
 .media{
 	position: absolute;
-	top: 80%;
-	left: 50%;
-	transform: translate(-3%, -50%);
+	top: 100%;
+	left: 30%;
+	transform: translate(-53%, -50%);
 }
 div ul li{
 	list-style: none;
