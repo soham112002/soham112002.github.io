@@ -15,12 +15,12 @@ body{
 	padding: 0 5px;
 }
 
-.navbar-default .navbar-nav li a {
+.navbar-default, .navbar-nav li a {
 	color: #D5D5D5;
 	float: right;
 }
 
-.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a:active{
+.navbar-default, .navbar-nav li a:hover, .navbar-default .navbar-nav li a:active{
 	color: #fff;
 }
 
