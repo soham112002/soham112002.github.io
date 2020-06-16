@@ -28,11 +28,12 @@ body{
 
 .navbar-brand{
 	min-height: 55px;
-	padding: 0 15px 5px;
+	padding: 0 5px;
 }
 
 .navbar-default .navbar-nav li a {
 	color: #D5D5D5;
+	float: right;
 }
 
 .navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a:active{
@@ -56,9 +57,6 @@ body{
 	padding: 80px 0px;
 }
 
-.padding img {
-	width: 100%;
-}
 
 footer {
 	width: 100%;
